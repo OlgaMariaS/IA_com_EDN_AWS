@@ -1,0 +1,5 @@
+Estou estudando python
+Aprendendio a manipular arquivos
+Este é o conteúdo inicial do arquivo
+Agora estamos adicionando mais conteúdo
+Fim!
